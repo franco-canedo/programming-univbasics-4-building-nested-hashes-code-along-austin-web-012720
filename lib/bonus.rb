@@ -23,6 +23,7 @@ def bonus
   #code your solution here:
   
   epic_tradegy[:montague][:hero][:status] = "dead"
+  epic_tradegy[:capulet][:heroine][:status] = "dead"
 
   
 
